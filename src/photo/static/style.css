@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: linear-gradient(to bottom right, #fa80f7, #f409ee);
+    height: 100vh;
+}
+
+#photo{
+    height: 30%;
+}

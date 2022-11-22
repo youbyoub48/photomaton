@@ -1,0 +1,4 @@
+django
+mediapipe
+numpy
+opencv-contrib-python

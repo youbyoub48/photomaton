@@ -2,11 +2,22 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
     background: linear-gradient(to bottom right, #fa80f7, #f409ee);
     height: 100vh;
 }
 
+.cadre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom right, #45ADF5, #0368FB);;
+    height: 400px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 5px 3px 3px black;
+}
+
 #photo{
-    height: 30%;
+    height: 10em;
 }
